@@ -81,7 +81,7 @@ Given y, find x in the non-linear equation y = ax**2/(1-x)**2.
     ```  1.4783183435                                                                                                                                                 ```
     ```                                                                                                                                                               ```
     ```                                                                                                                                                               ```
-    ```  if highlight the line below and type 'evl' on the command line                                                                                               ```
+    ```  if I highlight the line below and type 'evl' on the command line                                                                                               ```
     ```                                                                                                                                                               ```
     ```  1.2524810735**2*(1-1.2524810735)**2                                                                                                                          ```
     ```                                                                                                                                                               ```
@@ -112,7 +112,7 @@ Given y, find x in the non-linear equation y = ax**2/(1-x)**2.
     ```  %mend evla;                                                                                                                                                  ```
     ```                                                                                                                                                               ```
     ```                                                                                                                                                               ```
-    ```  These command macros donly work in the classic editor (not in EE. UE, EG. SAS Studio. Viya? ....)                                                            ```
+    ```  These command macros only work in the classic editor (not in EE. UE, EG. SAS Studio. Viya? ....)                                                            ```
     ```  other command macros ( try highlighting a bock of text and typing 'cuth on the command line.                                                                 ```
     ```  gethub command macros                                                                                                                                        ```
     ```  https://github.com/rogerjdeangelis/utl_sas_classic_editor/blob/master/utl_classic_editor.sas                                                                 ```
