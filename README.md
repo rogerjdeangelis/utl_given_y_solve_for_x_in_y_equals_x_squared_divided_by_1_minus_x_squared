@@ -47,7 +47,7 @@ Given y, find x in the non-linear equation y = ax**2/(1-x)**2.
     ```  Thanks Egg                                                                                                                                                   ```
     ```  https://listserv.uga.edu/cgi-bin/wa?A2=SAS-L;233a16d0.1711b                                                                                                  ```
     ```                                                                                                                                                               ```
-    ```  I was unaware that the solve function!!                                                                                                                      ```
+    ```  I was unaware that the SAS solve function, you need FCMP or IML!!                                                                                                                      ```
     ```                                                                                                                                                               ```
     ```  Given y = x**2*(1-x)**2 find the x values corresponding to y =.1, .2, .3, .4 and .5                                                                          ```
     ```                                                                                                                                                               ```
